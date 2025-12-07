@@ -1,6 +1,6 @@
-    <?php
+<?php
 
-        namespace tuyapiphp;
+    namespace tuyapiphp;
 
         Class Devices
         {
