@@ -2,6 +2,7 @@
 	"name": "evilhalba/tuyapiphp-fork",
 	"type": "library",
 	"description": "Tuya cloud api home management php client",
+    "version": "1.0",
 	"keywords": [ "tuya" , "smart life" ],
 	"license": "GPL-3.0-or-later",
 	"minimum-stability": "stable",
